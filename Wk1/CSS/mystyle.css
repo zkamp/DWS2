@@ -1,0 +1,38 @@
+body {
+	
+	font: 100%/1.5 "Helvetica Neue", Arial, Helvetica;
+	max-width:960px;
+	margin: 36px auto;
+}
+
+#wrapper {
+	width: 100%; /*900px*/
+	margin: 0 auto;
+	overflow: hidden;
+	background: #dbdbdb;
+}
+
+section {
+	float: left;
+	width: 62.8888889%; /*586px*/
+}
+
+aside {
+	float: right;
+	width: 36.777778%;/*331px*/
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 1.5em; /*24px*/
+	color: #509cff;
+}
+
+p {
+
+	font-size: 0.8125em;/*13px*/
+}
+
+h1, p {
+	padding: 0 15px;
+}
